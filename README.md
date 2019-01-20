@@ -3,9 +3,9 @@ Entry for HacknRoll 2019
 
 
 ### Team Members
-Abhijit Ravichandran 
-Hemanshu Gandhi 159
-Lim Kai Yu Bridget Grace 
+Abhijit Ravichandran, 
+Hemanshu Gandhi 159,
+Lim Kai Yu Bridget Grace, 
 Zhu Ruicong 838
 
 
