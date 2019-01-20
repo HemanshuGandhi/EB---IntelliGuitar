@@ -14,7 +14,7 @@ Best Freshman Hack, Most Socially Useful Hack
 
 
 ### Inspiration
-Figuring out ho¬w to play a song one has heard is a constant struggle faced by guitarists. A good ear for music and experience is needed to decide the best possible way to play a given combination of notes, as the ability to play the same note in multiple ways complicates the task. Tablature for uncommon songs is also difficult to find online, and are manually created, rather than generated using software.
+Figuring out how to play a song one has heard is a constant struggle faced by guitarists. A good ear for music and experience is needed to decide the best possible way to play a given combination of notes, as the ability to play the same note in multiple ways complicates the task. Tablature for uncommon songs is also difficult to find online, and are manually created, rather than generated using software.
 
 
 ### What it does
