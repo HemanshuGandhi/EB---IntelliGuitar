@@ -36,6 +36,8 @@ It works 😊
 ### Built with
 [1] AnthemScore, Python
 
+### Further Plans
+The project was developed on a Unix system, and can be further developed to operate on Windows.
 
 ### Try it out
 
