@@ -30,7 +30,7 @@ Determining the best possible fingerings for a given song on the guitar remains 
 
 
 ### Accomplishments that we’re proud of
-It works 😊
+It works 
 
 
 ### Built with
